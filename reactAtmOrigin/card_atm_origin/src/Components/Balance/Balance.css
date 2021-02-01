@@ -1,0 +1,12 @@
+.contedorPrincipal{
+    margin:auto;
+    padding:10px;
+    border:2px solid lightskyblue;
+    width:100%;
+}
+
+.img img {
+    width:100px;
+    height:auto;
+}
+
